@@ -1,0 +1,2 @@
+1) Preferencialmente usar o Gemini como assistente para o N8N
+2) Colocar na apresentação alguns dos vários exemplos de ferramentas de low-code
