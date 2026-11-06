@@ -7,3 +7,4 @@ seaborn==0.13.2
 scipy==1.17.1
 mlflow==3.17.0
 streamlit==1.65.0
+xgboost==3.2.0
