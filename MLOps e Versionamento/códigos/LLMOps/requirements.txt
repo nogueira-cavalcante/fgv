@@ -1,0 +1,12 @@
+# Versão do python: 3.11.17
+streamlit==1.65.0
+mlflow==3.17.0
+google-genai==3.0.0
+pypdf==7.0.0
+python-dotenv==1.2.4
+pandas=3.0.6
+openpyxl=3.1.5
+
+
+
+
